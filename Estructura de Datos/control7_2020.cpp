@@ -1,4 +1,4 @@
-//Javier Verde Marin y Sergio Crespillo Campos
+//Javier Verde Marin
 #include "Arbin.h"
 #include <iostream>
 #include <string>
@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Implementar aquÌ la funciones auxiliares que se consideren necesarias
+// Implementar aqu√≠ la funciones auxiliares que se consideren necesarias
 
 //Funcion para comprobar que se cumplen los requerimientos que permiten que el arbol sea zurdo
 bool compruebaZurdo(int izq, int der, int altura) {
@@ -41,8 +41,8 @@ int altura(Arbin<int> a) {
 	}
 }
 
-// FunciÛn principal a implementar, que determina si
-// el ·rbol dado como entrada es o no zurdo (devuelve true si es
+// Funci√≥n principal a implementar, que determina si
+// el √°rbol dado como entrada es o no zurdo (devuelve true si es
 // zurdo, false en otro caso)
 bool es_zurdo(Arbin<int> a) {
 	// A implementar
@@ -62,7 +62,7 @@ bool es_zurdo(Arbin<int> a) {
 
 
 //-----------------------------------------------------------------------
-// CÛdigo que se encarga de la e/s: no tocar
+// C√≥digo que se encarga de la e/s: no tocar
 //
 
 Arbin<int> lee_arbol(istream& in) {
@@ -90,17 +90,17 @@ Arbin<int> lee_arbol(istream& in) {
 
 
 /**
-La entrada al programa consiste de lÌneas formadas por ·rboles de enteros
+La entrada al programa consiste de l√≠neas formadas por √°rboles de enteros
 codificados de acuerdo con las siguientes reglas:
-(1) El ·rbol vacÌo se codifica como #
-(2) Los ·rboles simples se codifican como [v], con
+(1) El √°rbol vac√≠o se codifica como #
+(2) Los √°rboles simples se codifican como [v], con
 v el valor del nodo
-(3) Los ·rboles complejos se codifican como (IvD),
-con I la codificaciÛn del hijo izquierdo,
-v el valor de la raÌz, y D la codificaciÛn
+(3) Los √°rboles complejos se codifican como (IvD),
+con I la codificaci√≥n del hijo izquierdo,
+v el valor de la ra√≠z, y D la codificaci√≥n
 del hijo derecho.
-Para cada lÌnea leida, escribe en la salida est·dar
-ZURDO si el ·rbol es zurdo, y NO_ZURDO en otro caso
+Para cada l√≠nea leida, escribe en la salida est√°dar
+ZURDO si el √°rbol es zurdo, y NO_ZURDO en otro caso
 
 Ejemplo de entrada:
 #
