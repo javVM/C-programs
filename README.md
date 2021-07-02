@@ -9,7 +9,7 @@ Several C++ programs
   </tr>
   <tr>
     <td>botin</td>
-    <td><a href=https://github.com/javVM/C-programs/blob/blob/main/iterative/botin.cpp>Link</a></td>
+    <td><a href=https://github.com/javVM/C-programs/blob/main/iterative/botin.cpp>Link</a></td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@ Several C++ programs
   </tr>
   <tr>
     <td>cajas</td>
-    <td><a href=https://github.com/javVM/C-programs/blob/blob/main/backtracking/backtracking/cajas.cpp>Link</a></td>
+    <td><a href=https://github.com/javVM/C-programs/blob/main/backtracking/cajas.cpp>Link</a></td>
   </tr>
   <tr>
     <td>AER491</td>
