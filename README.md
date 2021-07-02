@@ -1,4 +1,4 @@
 # C-programs
 Several C++ programs
 
-<h1> Backtracking </h1>
+<h2> Backtracking </h2>
