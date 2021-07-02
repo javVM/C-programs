@@ -1,2 +1,2 @@
-# Programas_C
-Conjunto de programas de C++
+# C-programs
+Several C++ programs
