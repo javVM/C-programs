@@ -1,6 +1,8 @@
 # C-programs
 Several C++ programs
 
+<h2> Iterative </h2>
+
 <h2> Backtracking </h2>
 <table>
   <tr>
