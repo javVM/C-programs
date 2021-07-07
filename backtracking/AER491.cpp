@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//Javier Verde Marin
 const int MAX = 24;
 
 void resuelve(int v[], int n, int peso, int pesoTotal, int numUvas, int &sol, int pos) {
