@@ -12,7 +12,7 @@ Several C++ programs
     <td><a href=https://github.com/javVM/C-programs/blob/main/iterative/botin.cpp>Link</a></td>
   </tr>
   <tr>
-    <td>Max Sum/td>
+    <td>Max Sum</td>
     <td><a href=https://github.com/javVM/C-programs/blob/main/iterative/max_sum.cppLink</a></td>
   </tr>
 </table>
