@@ -13,8 +13,8 @@ Several C++ programs
   </tr>
   <tr>
     <td>Max Sum</td>
-    <td><a href=https://github.com/javVM/C-programs/blob/main/iterative/max_sum.cppLink</a></td>
-  </tr>
+    <td><a href=https://github.com/javVM/C-programs/blob/main/iterative/max_sum.cpp>Link</a></td>
+    </tr>
 </table>
 
 <h2> Backtracking </h2>
