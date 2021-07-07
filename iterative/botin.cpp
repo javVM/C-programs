@@ -1,7 +1,7 @@
 #include<iostream>
 #include<algorithm>
 using namespace std;
-
+//Javier Verde Marin
 const int MAX = 200000;
 
 //Complejidad: O(n) ya que se recorre el array pasando por todos los elementos
