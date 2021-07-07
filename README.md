@@ -31,5 +31,8 @@ Several C++ programs
     <td>Maximum marks attainable</td>
     <td><a href= https://github.com/javVM/C-programs/blob/main/backtracking/numExamenes.cpp>Link</a></td>
   </tr>
-  
+   <tr>
+    <td>Optimize benefits</td>
+    <td><a href=https://github.com/javVM/C-programs/blob/main/backtracking/beneficios.cpp>Link</a></td>
+  </tr>
 </table>
