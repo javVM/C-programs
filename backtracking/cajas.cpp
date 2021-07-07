@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//Javier Verde Marin
 //ESP: Programa para buscar el minimo numero de cajas necesarias para insertar un numero de elementos de distintos tamaños usando Backtracking
 //ENG: C++ program to find out the least number of boxers in order to fit several objects of various sizes using Backtracing
 const int MAX = 20;
