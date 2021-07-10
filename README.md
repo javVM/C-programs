@@ -39,4 +39,8 @@ Several C++ programs
     <td>Optimize benefits</td>
     <td><a href=https://github.com/javVM/C-programs/blob/main/backtracking/beneficios.cpp>Link</a></td>
   </tr>
+  <tr>
+    <td>Shortest path to exit</td>
+    <td><a href=https://github.com/javVM/C-programs/blob/main/backtracking/pathtoexit.cpp>Link</a></td>
+  </tr>
 </table>
