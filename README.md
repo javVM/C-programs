@@ -28,14 +28,6 @@ Several C++ programs
     <td><a href=https://github.com/javVM/C-programs/blob/main/backtracking/cajas.cpp>Link</a></td>
   </tr>
   <tr>
-    <td>AER491</td>
-    <td><a href=https://github.com/javVM/C-programs/blob/main/backtracking/AER491.cpp>Link</a></td>
-  </tr>
-  <tr>
-    <td>AER570</td>
-    <td><a href=https://github.com/javVM/C-programs/blob/main/backtracking/AER570.cpp>Link</a></td>
-  </tr>
-  <tr>
     <td>Maximum marks attainable</td>
     <td><a href= https://github.com/javVM/C-programs/blob/main/backtracking/numExamenes.cpp>Link</a></td>
   </tr>
